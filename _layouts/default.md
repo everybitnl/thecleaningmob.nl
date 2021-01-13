@@ -23,7 +23,7 @@
     </head>
     <body style="text-align: center; max-width: 640px; margin: auto">
         <h1>The Cleaning Mob</h1>
-        <img src="thecleaningmob.jpg" style="max-width: 300px">
+        <img src="/thecleaningmob.jpg" style="max-width: 300px">
         {{ content }}
     </body>
 </html>
