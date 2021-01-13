@@ -12,6 +12,7 @@ permalink: /en/
 <p>We bring our expertise. We take home our learnings. And we improve the code bases we love as a collateral benefit.</p>
 <p>There are many tricks for iterative code improvements. Most of us know only few. But together we know them all. So let's learn!</p>
 <h2>Links</h2>
-<p>Refactoring patterns and more at <a href="https://sourcemaking.com/">https://sourcemaking.com/</a></p>
+<p><a href="https://sourcemaking.com/"></a>Refactoring patterns and more at </a></p>
+<p><a href="https://chris.beams.io/posts/git-commit/"></a>How to Write a Git Commit Message</a></p>
 <h2>This site</h2>
 <p>Please feel free to commit pull requests for this site at: <a href="https://github.com/everybitnl/thecleaningmob.nl">https://github.com/everybitnl/thecleaningmob.nl</a></p>
