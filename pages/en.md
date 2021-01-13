@@ -2,6 +2,7 @@
 layout: default
 permalink: /en/
 ---
+<p><a href="/">nederlands</a></p>
 <h2>Practice Refactoring Patterns Together</h2>
 <p>Every wednesday at 13:00h Amsterdam time on <a href="https://meet.google.com/xwx-ygjz-vdd">Google Meet</a></p>
 <h2>Find us on Slack</h2>
