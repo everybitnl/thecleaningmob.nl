@@ -14,5 +14,6 @@ permalink: /en/
 <h2>Links</h2>
 <p><a href="https://sourcemaking.com/">Design Patterns & Refactoring</a></p>
 <p><a href="https://chris.beams.io/posts/git-commit/">How to Write a Git Commit Message</a></p>
+<p><a href="https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd">Complete Introduction to the 30 Most Essential Data Structures & Algorithms</a></p>
 <h2>This site</h2>
 <p>Please feel free to commit pull requests for this site at: <a href="https://github.com/everybitnl/thecleaningmob.nl">https://github.com/everybitnl/thecleaningmob.nl</a></p>
